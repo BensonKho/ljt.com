@@ -1,0 +1,19 @@
+{
+  "name": "ljt.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@barba/core": "^2.9.7",
+    "jump.js": "^1.0.2",
+    "lax.js": "^1.2.5",
+    "sal.js": "^0.7.4"
+  },
+  "devDependencies": {}
+}
