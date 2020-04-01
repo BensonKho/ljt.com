@@ -268,12 +268,12 @@ img{
     .container, .card1, .card2, .card3, .card4, .card5, .card6{
         display: block;
     }
-	.caption{
-		font-size:12px;
-	}
 }
 @media(max-width: 786px) {
 
+	.caption{
+		font-size:11px;
+	}
     .ptext{
         font-size: 12px;
     }
