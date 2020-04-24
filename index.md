@@ -498,6 +498,7 @@
                 <h2>Contact Us</h2>
                 <section class="address" data-aos="fade-left">
                     <h3>Address</h3>
+		    	<h4>Email: ljt@longnitao.com</h4>
                         1st Floor, Next to St. Anthony's Jr. Block Building,<br>
                         near Broadway Complex, NH-2<br>
                         Senapati District HQ<br>
