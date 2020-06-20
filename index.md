@@ -496,9 +496,9 @@
         <div class="last-container">
             <section class="contact" data-aos="fade-left">
                 <h2>Contact Us</h2>
+		<h3>Email: ljt@longnitao.com<h3>
                 <section class="address" data-aos="fade-left">
                     <h3>Address</h3>
-		    	<h4>Email: ljt@longnitao.com</h4>
                         1st Floor, Next to St. Anthony's Jr. Block Building,<br>
                         near Broadway Complex, NH-2<br>
                         Senapati District HQ<br>
@@ -540,7 +540,7 @@
         data-sal="fade-down"
         data-sal-delay="300"
         data-sal-easing="ease-out-bounce">
-            <p style="text-align: center; color: black;"><strong>© 2020 Longni Tao & Co. | All Rights Reserved</strong></p>
+            <p style="text-align: center; color: black;"><strong>© 2020 Longni John Tao & Co. | All Rights Reserved</strong></p>
             <section class="giticon">
             <a href="https://github.com/S-T-R-i-F-E"><i class="fa fa-github" style="font-size:36px"></i></a>
             </section>
