@@ -1,2 +1,2 @@
 # ljt.com
- profile page for a chartered accountancy firm
+ portfolio website for a chartered accountancy firm
